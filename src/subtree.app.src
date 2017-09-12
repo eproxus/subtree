@@ -7,7 +7,7 @@
     {modules, []},
 
     {maintainers, []},
-    {licenses, ["Apache 2.0"]},
+    {licenses, ["MIT"]},
     {links, [
         {"GitHub", "https://github.com/eproxus/subtree"}
     ]}
